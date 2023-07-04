@@ -1,0 +1,17 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+h1{
+    color: white;
+}
+
+button{
+    background-color: black;
+    color: white;
+    margin: 5px;
+    padding: 5px;
+    font-size: large;
+}
+
